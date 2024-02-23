@@ -1,6 +1,6 @@
-# MovieLand App 🎬
+# Cine Mate App 🎬
 
-Welcome to MovieLand, your go-to React application for exploring and discovering movies using the OMDB API. 🍿 Enter the world of cinema and get detailed information about your favorite films with just a few clicks!
+Welcome to Cine Mate, your go-to React application for exploring and discovering movies using the OMDB API. 🍿 Enter the world of cinema and get detailed information about your favorite films with just a few clicks!
 
 ## Table of Contents
 - [Features](#features-)
@@ -16,7 +16,7 @@ Welcome to MovieLand, your go-to React application for exploring and discovering
 
 - **Movie Cards**: 🎞️ Beautifully designed movie cards provide key details about each film, including the title, year, and poster.
 
-- **Responsive Design**: 📱 MovieLand is designed to be responsive, ensuring a seamless experience across various devices.
+- **Responsive Design**: 📱 Cine Mate is designed to be responsive, ensuring a seamless experience across various devices.
 
 ## Getting Started 🚀
 
@@ -34,7 +34,7 @@ git clone <repository_url>
 npm install
 ```
 
-3. Get your API key from [OMDB API](http://www.omdbapi.com/apikey.aspx) and replace `'YOUR_API_KEY'` in the `API_URL` variable with your actual API key.
+3. Get your API key from [OMDB API](https://www.omdbapi.com/apikey.aspx) and replace `'YOUR_API_KEY'` in the `API_URL` variable with your actual API key.
 
 4. Start the application.
 
@@ -42,7 +42,7 @@ npm install
 npm start
 ```
 
-5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to experience the magic of MovieLand.
+5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to experience the magic of Cine Mate.
 
 ## Technologies Used 🛠️
 
@@ -52,7 +52,7 @@ npm start
 
 ## Screenshots 📸
 
-
+(./CineMate.gif)
 
 ## Credits 🙌
 
@@ -66,4 +66,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for exploring MovieLand! If you have any feedback or suggestions, feel free to reach out. Happy movie searching! 🍿🎬
+Thank you for exploring Cine Mate! If you have any feedback or suggestions, feel free to reach out. Happy movie searching! 🍿🎬
