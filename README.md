@@ -52,7 +52,7 @@ npm start
 
 ## Screenshots 📸
 
-(./CineMate.gif)
+!(./CineMate.gif)
 
 ## Credits 🙌
 
